@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
     <a href="https://sylius.com" target="_blank">
         <img src="https://demo.sylius.com/assets/shop/img/logo.png" />
@@ -80,3 +81,7 @@ Authors
 
 Sylius was originally created by [Paweł Jędrzejewski](http://pjedrzejewski.com).
 See the list of [contributors from our awesome community](https://github.com/Sylius/Sylius/contributors).
+=======
+# Qasima
+Market place syluis project
+>>>>>>> 0e3c40d002c787c39b5ee6824597e9485f6b585a
